@@ -336,7 +336,7 @@ function setupProjectModal() {
             description: 'Website portfolio kreatif dengan animasi yang smooth dan interaktif. Menggunakan modern design trends, micro-interactions, dan parallax effects. Optimasi untuk fast loading dan SEO friendly.',
             tags: ['HTML', 'CSS', 'JavaScript'],
             demo: 'https://agussusanto1633.github.io/aguscv/',
-            github: 'https://github.com/Agussusanto1633/aguscv'
+            github: 'https://agussusanto1633.github.io/PortofolioWebAgus/'
         },
         '6': {
             title: 'Koneksi Jasa Landing Page',
