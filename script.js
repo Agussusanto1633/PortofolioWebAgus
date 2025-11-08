@@ -335,7 +335,7 @@ function setupProjectModal() {
             image: 'assets/porto.png',
             description: 'Website portfolio kreatif dengan animasi yang smooth dan interaktif. Menggunakan modern design trends, micro-interactions, dan parallax effects. Optimasi untuk fast loading dan SEO friendly.',
             tags: ['HTML', 'CSS', 'JavaScript'],
-            demo: 'https://agussusanto1633.github.io/aguscv/',
+            demo: 'https://github.com/Agussusanto1633/PortofolioWebAgus.git',
             github: 'https://agussusanto1633.github.io/PortofolioWebAgus/'
         },
         '6': {
